@@ -1,30 +1,24 @@
-## Welcome to LEO MOIX's GitHub Pages
+## 来了？！！😍🙌
 
-You can use the [editor on GitHub](https://github.com/LeoMoix/leomoix.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+我将会在这里展示我的成果![MuaKissGIF](https://user-images.githubusercontent.com/84228513/120009211-93c09600-bf90-11eb-8885-2b65b2b26173.gif)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+反正怎样都好，我就试试/(⊙﹏⊙)
 
-### Markdown
+### 关于我怕这个星期被诈骗了的一件事
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我不得不去承认的是，我故意的🤣😁
 
-```markdown
-Syntax highlighted code block
+# 管他呢，到时候看到就转告一声，毕竟都是牛马(┬┬﹏┬┬)
+## 还有小号(*/ω＼*)
+### 哎，就这吧。。。
 
-# Header 1
-## Header 2
-### Header 3
+- 骗子WeChat号是 [yw2164725877]
+- 手机号嘛，就是 [191 0074 6545]
 
-- Bulleted
-- List
+1. 他会说那什么……他朋友被打了![DanaChangeGIF](https://user-images.githubusercontent.com/84228513/120010663-40e7de00-bf92-11eb-841f-10c81f8b3643.gif)急需用钱q🤑
+2. 会求你之类的（毅力极强s，三天以上加s）
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+**诈骗手法** 和 _规避方法_ 的 `操作` 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -34,4 +28,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with call ? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##懒得打了，下次见
